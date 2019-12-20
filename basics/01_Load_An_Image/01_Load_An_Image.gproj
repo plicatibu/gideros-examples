@@ -1,0 +1,24 @@
+<project>
+ <properties mouseToTouch="1" tv_icon="" splashScaleMode="0" encryptCode="0" windowHeight="0" packageName="com.yourdomain.yourapp" html5_wasm="0" build_number="1" logicalHeight="600" html5_host="" win_domain="giderosmobile.com" html5_pack="0" exportMode="0" touchToMouse="1" version="1.0" html5_symbols="0" html5_mem="256" disableSplash="0" orientation="1" retinaDisplay="0" ios_bundle="com.yourdomain." android_template="0" mouseTouchOrder="0" app_icon="" win_org="GiderosMobile" html5_crash="" autorotation="0" osx_signingId="" architecture="7" app_name="" vsync="0" version_code="1" logicalWidth="800" splash_v_image="" osx_installerId="" osx_category="5" fps="60" html5_fbinstant="1" winrt_org="GiderosMobile" iosDevice="0" backgroundColor="#ffffff" scaleMode="3" osx_domain="giderosmobile.com" osx_org="GiderosMobile" windowWidth="0" winrt_package="com.yourdomain.yourapp" splash_h_image="" encryptAssets="0" osx_bundle="com.yourdomain." html5_fbload="100">
+  <imageScales/>
+  <plugins/>
+  <exports>
+   <export name="APK">
+    <property name="androidPath" value=""/>
+    <property name="androidSdk" value=""/>
+    <property name="androidTarget" value="26"/>
+    <property name="androidTools" value=""/>
+    <property name="buildAab" value="1"/>
+    <property name="buildApk" value="0"/>
+    <property name="deployApk" value="0"/>
+    <property name="javaPath" value=""/>
+    <property name="keyAlias" value=""/>
+    <property name="keyStore" value=""/>
+    <property name="packageName" value="com.yourdomain.yourapp"/>
+    <property name="timestampApk" value="0"/>
+   </export>
+  </exports>
+ </properties>
+ <file name="assets/main.lua"/>
+ <file source="../../assets/pics/ra_einstein.png"/>
+</project>
