@@ -1,0 +1,9 @@
+<project>
+ <properties iosDevice="0" encryptCode="0" version_code="1" disableSplash="0" mouseTouchOrder="0" logicalWidth="800" osx_bundle="com.yourdomain." html5_fbinstant="0" app_icon="" exportMode="0" architecture="0" vsync="0" html5_pack="0" packageName="com.yourdomain.yourapp" app_name="" win_org="GiderosMobile" backgroundColor="#ffffff" ios_bundle="com.yourdomain." html5_wasm="0" osx_domain="giderosmobile.com" html5_symbols="0" windowHeight="0" touchToMouse="1" fps="60" html5_host="" html5_crash="" autorotation="0" scaleMode="3" orientation="1" osx_category="5" splash_v_image="" android_template="0" retinaDisplay="0" logicalHeight="600" winrt_package="com.yourdomain.yourapp" osx_org="GiderosMobile" html5_mem="256" build_number="1" winrt_org="GiderosMobile" version="1.0" osx_installerId="" html5_fbload="100" mouseToTouch="1" encryptAssets="0" osx_signingId="" win_domain="giderosmobile.com" splashScaleMode="0" windowWidth="0" tv_icon="" splash_h_image="">
+  <imageScales/>
+  <plugins/>
+  <exports/>
+ </properties>
+ <file name="assets/main.lua"/>
+ <file source="../../assets/pics/ra_einstein.png"/>
+</project>
