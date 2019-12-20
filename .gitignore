@@ -39,3 +39,12 @@ luac.out
 *.x86_64
 *.hex
 
+# Gideros temporary / generated files
+.tmp/
+.xcodeproj
+AppleTV/
+tmp/
+.DS_Store
+Podfile
+
+
