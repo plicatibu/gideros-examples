@@ -1,6 +1,6 @@
 # gideros-examples
 
-<img src="http://giderosmobile.com/images/github/jump.jpg" align="right">
+
 
 Gideros Mobile is free and open sourced and provides the cross-platform technology to create amazing games. In a couple of hours, you’ll find yourself building and running your next great game.
 
