@@ -1,0 +1,9 @@
+<project>
+ <properties osx_signingId="" logicalWidth="320" encryptCode="0" winrt_package="com.yourdomain.yourapp" osx_domain="giderosmobile.com" fps="60" packageName="com.yourdomain.yourapp" html5_symbols="0" app_icon="" winrt_org="GiderosMobile" splash_h_image="" ios_bundle="com.yourdomain." encryptAssets="0" app_name="" osx_bundle="com.yourdomain." scaleMode="0" html5_fbload="100" backgroundColor="#ffffff" touchToMouse="1" logicalHeight="480" osx_category="5" build_number="1" splash_v_image="" windowWidth="0" autorotation="0" iosDevice="0" mouseToTouch="1" html5_mem="256" html5_wasm="0" html5_crash="" version_code="1" retinaDisplay="0" html5_fbinstant="0" win_org="GiderosMobile" architecture="0" mouseTouchOrder="0" version="1.0" tv_icon="" vsync="0" html5_pack="0" exportMode="0" disableSplash="0" win_domain="giderosmobile.com" osx_installerId="" splashScaleMode="0" windowHeight="0" orientation="1" osx_org="GiderosMobile" android_template="0" html5_host="">
+  <imageScales/>
+  <plugins/>
+  <exports/>
+ </properties>
+ <file source="../../assets/sprites/gideros.png"/>
+ <file name="assets/main.lua"/>
+</project>
